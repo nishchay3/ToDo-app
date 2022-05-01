@@ -1,0 +1,12 @@
+.todo-list-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 30rem;
+  height: 100%;
+  margin-right: 5rem;
+  padding: 1rem;
+  overflow: scroll;
+  border: 1px solid lightgrey;
+  border-radius: 0.25rem;
+}
